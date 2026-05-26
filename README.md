@@ -217,24 +217,3 @@ Through this project I practiced:
 * Improve Web Performance
 
 ---
-
-# 🚀 Run Project
-
-```bash
-flutter pub get
-flutter run -d chrome
-```
-
----
-
-# 🌐 Build Web Version
-
-```bash
-flutter build web --release
-```
-
----
-
-# 👨‍💻 Author
-
-Built with ❤️ using Flutter Web.
